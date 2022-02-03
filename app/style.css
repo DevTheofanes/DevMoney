@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+}
+body {
+    background-color: #E5E5E5;
+    font-family: 'Poppins', sans-serif;
+}
+
+button, input, select, textarea {
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    background-color: rgba(84, 41, 204, 1);
+    color: rgba(255, 255, 255, 1);
+}
+
+.headerContent{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.headerTop{
+    display: flex;
+    justify-content: space-between;
+
+    padding-top: 32px;
+}
+
+.headerTop button {
+    border: 0;
+    background-color: #6933FF;
+    color: #fff;
+
+    width: 195px;
+    height: 48px;
+    border-radius: 5px;
+}
+
+.headerBoxs {
+    display: flex;
+}

@@ -1,0 +1,222 @@
+
+header{
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    background-color: rgba(84, 41, 204, 1);
+    /* height: 212px; */
+    bottom: 608px;
+    border-radius: 0px;
+}
+
+.headerContent{
+    display: flex;
+    flex-direction: column;
+    width: 1440px;
+}
+
+.headerBoxs{
+    display: flex;
+    flex-direction: row;
+}
+
+h1{
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    width: 116.01px;
+    height: 24.05px;
+    /* left: 216.79px;
+    top: 46.24px;     */
+    font-size: 20px;
+}    
+button{
+    background-color: #6933FF;
+    border: #6933FF;
+    border-radius: 5px;
+    
+    /* position: absolute; */
+    width: 191px;
+    height: 48px;
+    /* left: 1117px;
+    top: 44px; */
+    border-radius: 5px;
+
+    color: rgba(255, 255, 255, 1);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+h4{
+    /* position: absolute;
+    left: 9.09%;
+    right: 70.45%;
+    top: 18.52%;
+    bottom: 63.7%; */
+    
+    color: rgba(54, 63, 95, 1);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+strong{
+    /* position: absolute;
+    left: 9.09%;
+    right: 28.12%;
+    top: 46.67%;
+    bottom: 13.33%; */
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 54px;
+    
+}
+
+.inputMoney{
+    
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 5px;
+
+    width: 352px;
+    height: 136px;
+    /* position: absolute;
+    left: 160px;
+    top: 144px; */
+    
+}
+
+.outputMoney{
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 5px;
+
+    width: 352px;
+    height: 136px;
+    /* position: absolute;
+    left: 544px;
+    top: 144px; */
+
+} 
+
+.totalMoney{
+    background: rgba(51, 204, 149, 1);
+    border-radius: 5px;
+
+    width: 352px;
+    height: 136px;
+    /* position: absolute;
+    left: 928px;
+    top: 144px; */
+}
+
+.HeadTitulo{
+
+    width: 43px;
+    height: 24px;
+    /* position: absolute;
+    left: 192px;
+    top: 344px; */
+           
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #032fe0;
+}
+/* th[scope="headTitulo"] {
+    color: rgba(150, 156, 178, 1);
+
+    position: absolute;
+    width: 43px;
+    height: 24px;
+    left: 192px;
+    top: 344px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+th[scope="headPreço"] {
+    color: rgba(150, 156, 178, 1);
+    
+    position: absolute;
+    width: 46px;
+    height: 24px;
+    left: 704px;
+    top: 344px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+th[scope="headData"]{
+    color: rgba(150, 156, 178, 1);
+    
+    position: absolute;
+    width: 81px;
+    height: 24px;
+    left: 916px;
+    top: 344px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+th[scope="headCategoria"]{
+    color: rgba(150, 156, 178, 1);
+
+    position: absolute;
+    width: 81px;
+    height: 24px;
+    left: 916px;
+    top: 344px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+th[scope="headData"]{
+    color: rgba(150, 156, 178, 1);
+
+    position: absolute;
+    width: 39px;
+    height: 24px;
+    left: 1159px;
+    top: 344px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+#col1rom1{
+    background: rgba(54, 63, 95, 1);
+
+    position: absolute;
+    width: 1120px;
+    height: 64px;
+    left: 160px;
+    top: 388px;
+    
+} */ 
